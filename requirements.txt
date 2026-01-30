@@ -4,3 +4,4 @@ playwright
 altair<5
 streamlit
 plotly
+standard-imghdr
