@@ -1,7 +1,7 @@
 google-generativeai>=0.8.3
 pandas
 playwright
-altair<5
-streamlit
+altair>=5.0.0
+streamlit>=1.31.0
 plotly
 standard-imghdr
