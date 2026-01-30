@@ -1,0 +1,5 @@
+google-generativeai>=0.8.3
+pandas
+playwright
+streamlit
+plotly
